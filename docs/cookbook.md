@@ -2,13 +2,13 @@
 
 Below are short notes about using Grizzly.
 
-[Starting Grizzly](#starting-grizzly)
-[Docker Local Development](#docker-local-development)
-[Add Devices](#add-devices)
-[Remove Devices](#remove-devices)
-[Command Basics](#command-basics)
-[Binary Switches](#binary-switches)
-[Locks](#locks)
+1. [Starting Grizzly](#starting-grizzly)
+1. [Docker Local Development](#docker-local-development)
+1. [Add Devices](#add-devices)
+1. [Remove Devices](#remove-devices)
+1. [Command Basics](#command-basics)
+1. [Binary Switches](#binary-switches)
+1. [Locks](#locks)
 
 ## Starting Grizzly 
 
